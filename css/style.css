@@ -643,3 +643,11 @@ img{
     box-shadow: 50px 50px 100px rgba(0, 0, 0, 0.145947);
     border-radius: 8px;
 }
+.btn-reset{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+.highlight{
+    background: rgba(255, 215, 35, 0.1);
+}
